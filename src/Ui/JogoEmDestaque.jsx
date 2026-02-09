@@ -14,6 +14,22 @@ const JogoEmDestaque = (props: Props) => {
 
             <div className="flexbox">
 
+              <div className="divConteudo">
+                <img src={gta} alt="" />
+              </div>
+
+              <div className="divConteudo">
+                <img src={gtaOnline} alt="" />
+              </div>
+
+              <div className="divConteudo">
+                <img src={redDead} alt="" />
+              </div>
+
+              <div className="divConteudo">
+                <img src={readOnline} alt="" />
+              </div>
+
             </div>
     </div>
   )
