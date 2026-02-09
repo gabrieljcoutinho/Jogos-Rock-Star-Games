@@ -10,4 +10,6 @@
 
 .flexbox {
     display: flex;
+    padding-left: 1rem;
+    gap: 50px;
 }
