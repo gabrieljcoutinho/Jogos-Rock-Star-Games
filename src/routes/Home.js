@@ -1,5 +1,6 @@
 import React from 'react'
 import HomeJogoPrincipal from "../Ui/homeJogoPrincipal.jsx"
+import JogoEmDestaque from "../Ui/JogoEmDestaque.jsx"
 
 const Home = () => {
   return (
@@ -7,7 +8,7 @@ const Home = () => {
 
       <HomeJogoPrincipal />
 
-
+      <JogoEmDestaque />
     </div>
   )
 }
