@@ -1,5 +1,5 @@
 .jogosEmDestaque {
-    height: 500px;
+    height: 600px;
 }
 
 .tituloPrinciapl {
@@ -33,4 +33,8 @@
     border-radius: 10px;
     /* Remove estilos nativos do sistema operacional */
     font-weight: bold;
+}
+
+.movimentacaoBotao {
+    padding-left: 5rem;
 }
