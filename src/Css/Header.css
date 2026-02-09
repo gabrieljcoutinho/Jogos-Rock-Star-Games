@@ -25,6 +25,10 @@
     cursor: pointer;
 }
 
+.movimentacao {
+    padding-left: 5rem;
+}
+
 .btnDowload {
     background: none;
     background-color: orange;
