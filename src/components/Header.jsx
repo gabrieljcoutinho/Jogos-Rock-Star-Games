@@ -9,7 +9,7 @@ const Header = (props: Props) => {
   return (
     <div className='header'>
       <img src={logoHeader} alt="" />
-      <ul>
+      <ul className='ulListaHeader'>
       <li className='lista'>Jogos</li>
       <li className='lista'>Loja</li>
       <li className='lista'>Ajuda</li>
