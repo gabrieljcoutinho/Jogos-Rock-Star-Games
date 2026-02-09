@@ -14,7 +14,7 @@ const Header = (props: Props) => {
       <li className='lista'>Loja</li>
       <li className='lista'>Ajuda</li>
       </ul>
-      <button>Baixar o Launcher</button>
+      <button className='btnDowload'>Baixar o Launcher</button>
       </div>
   )
 }
