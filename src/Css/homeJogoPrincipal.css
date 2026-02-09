@@ -1,6 +1,15 @@
 .homePrinciapl {
-    background-image: url("../img//imgGTA.png");
+    background-image: url("../img/imgGTA.png");
     height: 900px;
+    /* Ou height: 100vh se quiser que ocupe a tela inteira */
+    max-height: 800px;
+
+    /* Garante que a imagem cubra tudo sem distorcer */
     background-size: cover;
-    max-height: 900px;
+
+    /* Centraliza a imagem (evita que corte apenas um lado) */
+    background-position: center;
+
+    /* Impede que a imagem se repita caso a div cresça */
+    background-repeat: no-repeat;
 }
