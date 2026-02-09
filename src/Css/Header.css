@@ -27,7 +27,7 @@
 }
 
 .movimentacao {
-    padding-left: 5rem;
+    transform: translate(10px, 0px);
 }
 
 .btnDowload {
