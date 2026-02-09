@@ -31,6 +31,8 @@ const JogoEmDestaque = (props: Props) => {
               </div>
 
             </div>
+
+            <button className='verTodosOsJogos'>Ver todos os jogos</button>
     </div>
   )
 }
