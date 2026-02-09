@@ -12,6 +12,13 @@
 
 .lista {
     color: #fff;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.lista:hover {
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 .btnDowload {
