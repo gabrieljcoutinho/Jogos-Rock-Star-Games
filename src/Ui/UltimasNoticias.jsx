@@ -6,7 +6,7 @@ type Props = {}
 const UltimasNoticias = (props: Props) => {
   return (
     <div>
-        <h3>UltimasNoticias</h3>
+        <h3 className='ultimaNoticia'>UltimasNoticias</h3>
     </div>
   )
 }
