@@ -1,4 +1,5 @@
 .homePrinciapl {
-    background-color: red;
+    background-image: url("../img//imgGTA.png");
     height: 900px;
+    background-size: cover;
 }
