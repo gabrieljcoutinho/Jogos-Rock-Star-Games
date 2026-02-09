@@ -1,6 +1,7 @@
 import React from 'react'
 import HomeJogoPrincipal from "../Ui/homeJogoPrincipal.jsx"
 import JogoEmDestaque from "../Ui/JogoEmDestaque.jsx"
+import UltimasNoticias from "../Ui/UltimasNoticias.jsx"
 
 const Home = () => {
   return (
@@ -9,6 +10,8 @@ const Home = () => {
       <HomeJogoPrincipal />
 
       <JogoEmDestaque />
+
+      <UltimasNoticias />
     </div>
   )
 }
