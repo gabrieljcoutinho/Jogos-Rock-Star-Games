@@ -1,5 +1,9 @@
 import React from 'react'
 import "../../src/Css/jogoEmDestaque.css"
+import gta from "../../src/img/GTA 5.png"
+import gtaOnline from "../../src/img/GTA online.png"
+import redDead from "../../src/img/RED.png"
+import readOnline from "../../src/img/RED Online.png"
 
 type Props = {}
 
