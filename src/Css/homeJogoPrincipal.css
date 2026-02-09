@@ -1,15 +1,17 @@
 .homePrinciapl {
     background-image: url("../img/imgGTA.png");
+
+    /* Aqui você define a altura que desejar */
     height: 900px;
-    /* Ou height: 100vh se quiser que ocupe a tela inteira */
-    max-height: 800px;
+    max-height: 900px;
+    width: 100%;
+    /* Garante que a largura ocupe todo o espaço disponível */
 
-    /* Garante que a imagem cubra tudo sem distorcer */
+    /* O PULO DO GATO: */
     background-size: cover;
-
-    /* Centraliza a imagem (evita que corte apenas um lado) */
+    /* Faz a imagem preencher 100% da div sem distorcer */
     background-position: center;
-
-    /* Impede que a imagem se repita caso a div cresça */
+    /* Centraliza os personagens no meio da div */
     background-repeat: no-repeat;
+    /* Evita que a imagem duplique */
 }
