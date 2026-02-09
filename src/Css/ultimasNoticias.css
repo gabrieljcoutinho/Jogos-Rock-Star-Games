@@ -1,5 +1,5 @@
 .ultimasNoticiasConteudo {
-    background-color: red;
+    background-color: #252525;
     height: 600px;
 }
 
@@ -7,4 +7,8 @@
     color: #fff;
     padding-top: 5rem;
     padding-left: 20rem;
+}
+
+.imggta {
+    padding-left: 10rem;
 }
