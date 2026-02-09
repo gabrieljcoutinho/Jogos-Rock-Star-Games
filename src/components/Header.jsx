@@ -5,7 +5,12 @@ type Props = {}
 
 const Header = (props: Props) => {
   return (
-    <div>Header</div>
+    <div><ul>
+      <li>Jogos</li>
+      <li>Loja</li>
+      <li>Ajuda</li>
+      </ul>
+      </div>
   )
 }
 
