@@ -18,3 +18,19 @@
 .flexbox img {
     width: 250px;
 }
+
+
+.verTodosOsJogos {
+    background: none;
+    background-color: orange;
+    border: none;
+    padding: 20px;
+    margin: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    appearance: none;
+    border-radius: 10px;
+    /* Remove estilos nativos do sistema operacional */
+    font-weight: bold;
+}
