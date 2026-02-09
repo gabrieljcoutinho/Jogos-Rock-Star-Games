@@ -2,6 +2,10 @@
     background-color: #000;
 }
 
+.ulListaHeader {
+    display: flex;
+}
+
 .lista {
     color: #fff;
 }
