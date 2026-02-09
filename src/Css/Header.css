@@ -11,6 +11,7 @@
     display: flex;
     padding-left: 5rem;
     font-size: 20px;
+    gap: 20px;
 }
 
 .lista {
