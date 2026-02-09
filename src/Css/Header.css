@@ -21,5 +21,6 @@
     cursor: pointer;
     outline: inherit;
     appearance: none;
+    border-radius: 10px;
     /* Remove estilos nativos do sistema operacional */
 }
