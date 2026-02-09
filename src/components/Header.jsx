@@ -10,9 +10,9 @@ const Header = (props: Props) => {
     <div className='header'>
       <img src={logoHeader} alt="" />
       <ul>
-      <li>Jogos</li>
-      <li>Loja</li>
-      <li>Ajuda</li>
+      <li className='lista'>Jogos</li>
+      <li className='lista'>Loja</li>
+      <li className='lista'>Ajuda</li>
       </ul>
       </div>
   )
