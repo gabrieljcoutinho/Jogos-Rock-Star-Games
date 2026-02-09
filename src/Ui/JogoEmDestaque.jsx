@@ -1,4 +1,5 @@
 import React from 'react'
+import "../../src/Css/jogoEmDestaque.css"
 
 type Props = {}
 
