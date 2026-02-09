@@ -10,3 +10,15 @@
 .lista {
     color: #fff;
 }
+
+.btnDowload {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    appearance: none;
+    /* Remove estilos nativos do sistema operacional */
+}
