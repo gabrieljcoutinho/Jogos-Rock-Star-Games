@@ -9,6 +9,8 @@
 
 .ulListaHeader {
     display: flex;
+    padding-left: 5rem;
+    font-size: 20px;
 }
 
 .lista {
