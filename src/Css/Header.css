@@ -42,4 +42,5 @@
     appearance: none;
     border-radius: 10px;
     /* Remove estilos nativos do sistema operacional */
+    font-weight: bold;
 }
