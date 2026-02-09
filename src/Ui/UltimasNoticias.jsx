@@ -12,7 +12,7 @@ const UltimasNoticias = (props: Props) => {
 
         <div className="conteudo">
                     <div className="gta">
-                        <img src={gta} alt="" />
+                        <img src={gta} alt="" className='imggta' />
                     </div>
         </div>
     </div>
