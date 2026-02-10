@@ -1,10 +1,15 @@
 import React from 'react'
+import "../../src/Css/footer.css"
 
 type Props = {}
 
 const Footer = (props: Props) => {
   return (
-    <div>Footer</div>
+    <footer>
+
+asd
+
+    </footer>
   )
 }
 
