@@ -13,6 +13,8 @@ const Home = () => {
       <JogoEmDestaque />
 
       <UltimasNoticias />
+
+      <Footer />
     </div>
   )
 }
