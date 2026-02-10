@@ -17,6 +17,7 @@ const UltimasNoticias = (props: Props) => {
         {/* Imagem Principal (Esquerda) */}
         <div className="card gta-principal">
           <img src={gta} alt="GTA 6" className='img-grid' />
+          
         </div>
 
         {/* Imagem Superior (Direita) */}
